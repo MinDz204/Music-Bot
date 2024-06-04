@@ -75,7 +75,7 @@ module.exports = {
 
       const button3 = new ButtonBuilder()
         .setLabel('Code')
-        .setURL('https://github.com/GlaceYT/MUSIC-BOT-v3.6')
+        .setURL('https://github.com/MinDz204/Music-Bot')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
