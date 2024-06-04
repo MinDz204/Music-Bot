@@ -1,4 +1,4 @@
-#  MULTI-MUSIC BOT BY GlaceYT
+#  MULTI-MUSIC BOT BY YUONGZMIN
 ▶️ simple and powerful music bot.
 ▶️ consisting of various commands.
 ▶️ Still in development you may face minor bugs|
@@ -30,5 +30,5 @@
 All code in this project is authored by GlaceYT. Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
 
 
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/c4kaW2sSbm ]
+   ## Contact    [ DISCORD SERVER :  https://discord.com/invite/erH2X2Yz5s ]
 */z
