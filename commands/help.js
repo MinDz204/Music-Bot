@@ -62,7 +62,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1150827819547504741/1168917372267151370/standard.gif?ex=65538222&is=65410d22&hm=b4994392f44679da41fc9304eb69deaa3769e136057556deec0db69ae8d33a97&')
+       .setImage('https://cdn.discordapp.com/attachments/1240293887394844792/1247506069446594580/standard.gif?ex=66604610&is=665ef490&hm=c694ed1777bb8589526e72ef7d727f0be4b4fdfdb48ed022dde6aa268b672a56&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
         .setURL('https://www.youtube.com/@YuongzMin')
